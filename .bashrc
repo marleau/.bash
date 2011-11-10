@@ -22,6 +22,7 @@ alias mvi='mvim'
 alias top='top -u'
 alias pman='python manage.py'
 alias marked='open -a marked'
+alias g='git'
 
 # todo.sh autocompletion
 _todo() 
